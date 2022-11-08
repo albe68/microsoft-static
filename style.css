@@ -17,6 +17,9 @@
   
     
 }
+.header a:hover{
+    color: red;
+}
 /* HEADER FONT */
 
 .m365
@@ -83,6 +86,9 @@
     position: relative;
     top: 50px;
     right: 50px;
+}
+.logos a:hover{
+    color: red;
 }
 .logos img{
     position: relative;
@@ -224,5 +230,7 @@ background-color: transparent;
     text-decoration: none;
     list-style: none; 
    }
-
+   .footer a:hover{
+    color: red;
+   }
   
